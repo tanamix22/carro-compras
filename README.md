@@ -10,7 +10,7 @@ Javascript vanilla HTML y CSS.
 
 # Deploy
 
-The project is displayed [Here](https://flight-form.vercel.app/).
+The project is displayed [Here](https://tanamix22.github.io/carro-compras/).
 
 
 # Team 
